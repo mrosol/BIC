@@ -1,5 +1,5 @@
 # BIC
-University project on doctoral studies for Biology Inspired Computations.
+University project on doctoral studies from Biology Inspired Computations (BIC) lecture.
 The aim of the project is to design and instantiate two deep network architectures that can be used for
 recognition of the predefined objects in images. The used dataset can be found here: http://chaladze.com/l5/
 
